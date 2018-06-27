@@ -2,7 +2,7 @@
 
 * [Lintcode Solution](README.md)
 
-## Lintcode
+## Binary Search
 
 * [585. Maximum Number in Mountain Sequence](binary_search/585.-maximum-number-in-mountain-sequence.md)
 * [460. Find K Closest Elements](binary_search/460.-find-k-closest-elements.md)
