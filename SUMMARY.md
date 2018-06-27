@@ -10,4 +10,5 @@
 * [447. Search in a Big Sorted Array](binary-search/447.-search-in-a-big-sorted-array.md)
 * [428. Pow\(x, n\)](binary-search/428.-pow-x-n.md)
 * [159. Find Minimum in Rotated Sorted Array](binary-search/159.-find-minimum-in-rotated-sorted-array.md)
+* [140. Fast Power](binary-search/140.-fast-power.md)
 
