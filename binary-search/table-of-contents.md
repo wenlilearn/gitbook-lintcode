@@ -39,4 +39,8 @@ public Solution {
 * [460. Find K Closest Elements](460.-find-k-closest-elements.md)
 * [447. Search in a Big Sorted Array](447.-search-in-a-big-sorted-array.md)
 * [428. Pow\(x, n\)](428.-pow-x-n.md)
-
+* [159. Find Minimum in Rotated Sorted Array](159.-find-minimum-in-rotated-sorted-array.md)
+* [140. Fast Power](140.-fast-power.md)
+* [75. Find Peak Element](75.-find-peak-element.md)
+* [74. First Bad Version](74.-first-bad-version.md)
+* [62. Search in Rotated Sorted Array](62.-search-in-rotated-sorted-array.md)
