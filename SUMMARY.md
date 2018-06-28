@@ -13,4 +13,5 @@
 * [140. Fast Power](binary-search/140.-fast-power.md)
 * [75. Find Peak Element](binary-search/75.-find-peak-element.md)
 * [74. First Bad Version](binary-search/74.-first-bad-version.md)
+* [62. Search in Rotated Sorted Array](binary-search/62.-search-in-rotated-sorted-array.md)
 
