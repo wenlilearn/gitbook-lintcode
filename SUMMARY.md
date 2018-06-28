@@ -12,4 +12,5 @@
 * [159. Find Minimum in Rotated Sorted Array](binary-search/159.-find-minimum-in-rotated-sorted-array.md)
 * [140. Fast Power](binary-search/140.-fast-power.md)
 * [75. Find Peak Element](binary-search/75.-find-peak-element.md)
+* [74. First Bad Version](binary-search/74.-first-bad-version.md)
 
