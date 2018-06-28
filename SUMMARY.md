@@ -19,4 +19,5 @@
 
 * [228. Middle of Linked List](two-pointers/228.-middle-of-linked-list.md)
 * [607. Two Sum III - Data structure design](two-pointers/607.-two-sum-iii-data-structure-design.md)
+* [539. Move Zeroes](two-pointers/539.-move-zeroes.md)
 
