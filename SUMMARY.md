@@ -15,3 +15,8 @@
 * [74. First Bad Version](binary-search/74.-first-bad-version.md)
 * [62. Search in Rotated Sorted Array](binary-search/62.-search-in-rotated-sorted-array.md)
 
+## Two Pointers
+
+* [228. Middle of Linked List](two-pointers/228.-middle-of-linked-list.md)
+* [607. Two Sum III - Data structure design](two-pointers/607.-two-sum-iii-data-structure-design.md)
+
