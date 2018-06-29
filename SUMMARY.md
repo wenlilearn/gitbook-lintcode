@@ -16,7 +16,7 @@
 * [62. Search in Rotated Sorted Array](binary-search/62.-search-in-rotated-sorted-array.md)
 
 ## Two Pointers
-
+* [Table of contents](two-pointers/table-of-contents.md)
 * [228. Middle of Linked List](two-pointers/228.-middle-of-linked-list.md)
 * [607. Two Sum III - Data structure design](two-pointers/607.-two-sum-iii-data-structure-design.md)
 * [539. Move Zeroes](two-pointers/539.-move-zeroes.md)
@@ -31,4 +31,3 @@
 ## 算法感悟
 
 * [Partition vs Quick Sort\(Select\)](suan-fa-gan-wu/partition-vs-quick-sort.md)
-
