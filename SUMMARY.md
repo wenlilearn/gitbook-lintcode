@@ -24,4 +24,5 @@
 * [464. Sort Integers II](two-pointers/464.-sort-integers-ii.md)
 * [608. Two Sum II - Input array is sorted](two-pointers/608.-two-sum-ii-input-array-is-sorted.md)
 * [143. Sort Colors II](two-pointers/143.-sort-colors-ii.md)
+* [57. 3Sum](two-pointers/57.-3sum.md)
 
