@@ -25,8 +25,8 @@
 * [608. Two Sum II - Input array is sorted](two-pointers/608.-two-sum-ii-input-array-is-sorted.md)
 * [143. Sort Colors II](two-pointers/143.-sort-colors-ii.md)
 * [57. 3Sum](two-pointers/57.-3sum.md)
-* [31. Partition Array](two-pointers/31.-partition-array/README.md)
-  * [5. Kth Largest Element](two-pointers/31.-partition-array/5.-kth-largest-element.md)
+* [31. Partition Array](two-pointers/31.-partition-array.md)
+* [5. Kth Largest Element](two-pointers/5.-kth-largest-element.md)
 
 ## 算法感悟
 
