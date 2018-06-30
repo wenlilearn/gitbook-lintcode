@@ -1,7 +1,8 @@
 # Table of contents
 
 在这一小节中, 我们会看到quick select以及quick sort的相关题目, 模板如下:
-```Python
+
+```python
   # 我们select的是第k + 1小的数
   def quickSelect(numbers, start, end, k):
       # 结束条件是已经把范围缩小到最小了, 正是我们想要的数
@@ -43,5 +44,6 @@
 * [608. Two Sum II - Input array is sorted](608.-two-sum-ii-input-array-is-sorted.md)
 * [143. Sort Colors II](143.-sort-colors-ii.md)
 * [57. 3Sum](57.-3sum.md)
-* [31. Partition Array](31.-partition-array.md)
-* [5. Kth Largest Element](5.-kth-largest-element.md)
+* [31. Partition Array](https://github.com/wenlilearn/gitbook-lintcode/tree/2826a11e09a99a022f489ba561329b60865a3100/two-pointers/31.-partition-array.md)
+* [5. Kth Largest Element](https://github.com/wenlilearn/gitbook-lintcode/tree/2826a11e09a99a022f489ba561329b60865a3100/two-pointers/5.-kth-largest-element.md)
+
