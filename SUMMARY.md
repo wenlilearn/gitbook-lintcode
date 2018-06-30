@@ -36,4 +36,5 @@
 ## Breadth First Search\(BFS\)
 
 * [433. Number of Islands](breadth-first-search-bfs/433.-number-of-islands.md)
+* [69. Binary Tree Level Order Traversal](breadth-first-search-bfs/69.-binary-tree-level-order-traversal.md)
 
