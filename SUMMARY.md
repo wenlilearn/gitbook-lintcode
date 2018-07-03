@@ -47,4 +47,8 @@
 ## Depth First Search\(DFS\)
 
 * [Table of contents](depth-first-search-dfs/table-of-contents.md)
+* [900. Closest Binary Search Tree Value](depth-first-search-dfs/900.-closest-binary-search-tree-value.md)
+* [596. Minimum Subtree](depth-first-search-dfs/596.-minimum-subtree.md)
+* [480. Binary Tree Paths](depth-first-search-dfs/480.-binary-tree-paths.md)
+* [453. Flatten Binary Tree to Linked List](depth-first-search-dfs/453.-flatten-binary-tree-to-linked-list.md)
 
