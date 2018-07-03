@@ -38,4 +38,5 @@
 * [433. Number of Islands](breadth-first-search-bfs/433.-number-of-islands.md)
 * [69. Binary Tree Level Order Traversal](breadth-first-search-bfs/69.-binary-tree-level-order-traversal.md)
 * [615. Course Schedule & 616. Course Schedule II](breadth-first-search-bfs/615.-course-schedule-and-616.-course-schedule-ii.md)
+* [605. Sequence Reconstruction](breadth-first-search-bfs/605.-sequence-reconstruction.md)
 
