@@ -32,6 +32,7 @@
 ## 算法感悟
 
 * [Partition vs Quick Sort\(Select\)](suan-fa-gan-wu/partition-vs-quick-sort-select.md)
+* [拓扑排序中的visited](suan-fa-gan-wu/tuo-pu-pai-xu-zhong-de-visited.md)
 
 ## Breadth First Search\(BFS\)
 
@@ -40,4 +41,5 @@
 * [615. Course Schedule & 616. Course Schedule II](breadth-first-search-bfs/615.-course-schedule-and-616.-course-schedule-ii.md)
 * [605. Sequence Reconstruction](breadth-first-search-bfs/605.-sequence-reconstruction.md)
 * [137. Clone Graph](breadth-first-search-bfs/137.-clone-graph.md)
+* [127. Topological Sorting](breadth-first-search-bfs/127.-topological-sorting.md)
 
