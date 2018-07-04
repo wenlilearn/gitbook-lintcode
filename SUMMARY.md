@@ -51,4 +51,5 @@
 * [596. Minimum Subtree](depth-first-search-dfs/596.-minimum-subtree.md)
 * [480. Binary Tree Paths](depth-first-search-dfs/480.-binary-tree-paths.md)
 * [453. Flatten Binary Tree to Linked List](depth-first-search-dfs/453.-flatten-binary-tree-to-linked-list.md)
+* [93. Balanced Binary Tree](depth-first-search-dfs/93.-balanced-binary-tree.md)
 
