@@ -52,4 +52,7 @@
 * [480. Binary Tree Paths](depth-first-search-dfs/480.-binary-tree-paths.md)
 * [453. Flatten Binary Tree to Linked List](depth-first-search-dfs/453.-flatten-binary-tree-to-linked-list.md)
 * [93. Balanced Binary Tree](depth-first-search-dfs/93.-balanced-binary-tree.md)
+* [902. Kth Smallest Element in a BST](depth-first-search-dfs/902.-kth-smallest-element-in-a-bst.md)
+* [578. Lowest Common Ancestor III](depth-first-search-dfs/578.-lowest-common-ancestor-iii.md)
+* [95. Validate Binary Search Tree](depth-first-search-dfs/95.-validate-binary-search-tree.md)
 
