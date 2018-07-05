@@ -56,4 +56,5 @@
 * [578. Lowest Common Ancestor III](depth-first-search-dfs/578.-lowest-common-ancestor-iii.md)
 * [95. Validate Binary Search Tree](depth-first-search-dfs/95.-validate-binary-search-tree.md)
 * [901. Closest Binary Search Tree Value II](depth-first-search-dfs/901.-closest-binary-search-tree-value-ii.md)
+* [86. Binary Search Tree Iterator](depth-first-search-dfs/86.-binary-search-tree-iterator.md)
 
