@@ -2,6 +2,11 @@
 
 * [Lintcode Solution](README.md)
 
+## 算法感悟
+
+* [Partition vs Quick Sort\(Select\)](suan-fa-gan-wu/partition-vs-quick-sort-select.md)
+* [拓扑排序中的visited](suan-fa-gan-wu/tuo-pu-pai-xu-zhong-de-visited.md)
+
 ## Binary Search
 
 * [Table of contents](binary-search/table-of-contents.md)
@@ -29,13 +34,9 @@
 * [31. Partition Array](two-pointers/31.-partition-array.md)
 * [5. Kth Largest Element](two-pointers/5.-kth-largest-element.md)
 
-## 算法感悟
-
-* [Partition vs Quick Sort\(Select\)](suan-fa-gan-wu/partition-vs-quick-sort-select.md)
-* [拓扑排序中的visited](suan-fa-gan-wu/tuo-pu-pai-xu-zhong-de-visited.md)
-
 ## Breadth First Search\(BFS\)
 
+* [Table of contents](breadth-first-search-bfs/table-of-contents.md)
 * [433. Number of Islands](breadth-first-search-bfs/433.-number-of-islands.md)
 * [69. Binary Tree Level Order Traversal](breadth-first-search-bfs/69.-binary-tree-level-order-traversal.md)
 * [615. Course Schedule & 616. Course Schedule II](breadth-first-search-bfs/615.-course-schedule-and-616.-course-schedule-ii.md)
@@ -57,4 +58,3 @@
 * [95. Validate Binary Search Tree](depth-first-search-dfs/95.-validate-binary-search-tree.md)
 * [901. Closest Binary Search Tree Value II](depth-first-search-dfs/901.-closest-binary-search-tree-value-ii.md)
 * [86. Binary Search Tree Iterator](depth-first-search-dfs/86.-binary-search-tree-iterator.md)
-
