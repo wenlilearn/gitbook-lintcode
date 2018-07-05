@@ -44,6 +44,5 @@
 * [608. Two Sum II - Input array is sorted](608.-two-sum-ii-input-array-is-sorted.md)
 * [143. Sort Colors II](143.-sort-colors-ii.md)
 * [57. 3Sum](57.-3sum.md)
-* [31. Partition Array](https://github.com/wenlilearn/gitbook-lintcode/tree/2826a11e09a99a022f489ba561329b60865a3100/two-pointers/31.-partition-array.md)
-* [5. Kth Largest Element](https://github.com/wenlilearn/gitbook-lintcode/tree/2826a11e09a99a022f489ba561329b60865a3100/two-pointers/5.-kth-largest-element.md)
-
+* [31. Partition Array](31.-partition-array.md)
+* [5. Kth Largest Element](5.-kth-largest-element.md)
