@@ -6,6 +6,7 @@
 
 * [Partition vs Quick Sort\(Select\)](suan-fa-gan-wu/partition-vs-quick-sort-select.md)
 * [拓扑排序中的visited](suan-fa-gan-wu/tuo-pu-pai-xu-zhong-de-visited.md)
+* [DFS中的组合与排列类问题](suan-fa-gan-wu/dfs-zhong-de-zu-he-yu-pai-lie-lei-wen-ti.md)
 
 ## Binary Search
 
@@ -62,4 +63,5 @@
 * [570. Find the Missing Number II](depth-first-search-dfs/570.-find-the-missing-number-ii.md)
 * [136. Palindrome Partitioning](depth-first-search-dfs/136.-palindrome-partitioning.md)
 * [152. Combinations](depth-first-search-dfs/152.-combinations.md)
+* [135. Combination Sum](depth-first-search-dfs/135.-combination-sum.md)
 
