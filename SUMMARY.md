@@ -65,4 +65,7 @@
 * [136. Palindrome Partitioning](depth-first-search-dfs/136.-palindrome-partitioning.md)
 * [152. Combinations](depth-first-search-dfs/152.-combinations.md)
 * [135. Combination Sum](depth-first-search-dfs/135.-combination-sum.md)
+* [153. Combination Sum II](depth-first-search-dfs/153.-combination-sum-ii.md)
+* [17. Subsets](depth-first-search-dfs/17.-subsets.md)
+* [18. Subsets II](depth-first-search-dfs/untitled.md)
 
