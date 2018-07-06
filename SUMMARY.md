@@ -7,6 +7,7 @@
 * [Partition vs Quick Sort\(Select\)](suan-fa-gan-wu/partition-vs-quick-sort-select.md)
 * [拓扑排序中的visited](suan-fa-gan-wu/tuo-pu-pai-xu-zhong-de-visited.md)
 * [DFS中的组合与排列类问题](suan-fa-gan-wu/dfs-zhong-de-zu-he-yu-pai-lie-lei-wen-ti.md)
+* [图中环问题的处理方法:](suan-fa-gan-wu/tu-zhong-huan-wen-ti-de-chu-li-fang-fa.md)
 
 ## Binary Search
 
