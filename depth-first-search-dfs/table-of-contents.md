@@ -7,9 +7,10 @@
 * 排列类的深度优先搜索
 
 ## 二叉树上的深度优先搜索:
-- 题目肯定和二叉树有关, 搜索的范围是左树和右树
-- 一般存在两种解法: 分治和遍历
-- 和二叉树有关的题目:
+
+* 题目肯定和二叉树有关, 搜索的范围是左树和右树
+* 一般存在两种解法: 分治和遍历
+* 和二叉树有关的题目:
   * [900. Closest Binary Search Tree Value](900.-closest-binary-search-tree-value.md)
   * [596. Minimum Subtree](596.-minimum-subtree.md)
   * [480. Binary Tree Paths](480.-binary-tree-paths.md)
@@ -20,3 +21,4 @@
   * [95. Validate Binary Search Tree](95.-validate-binary-search-tree.md)
   * [901. Closest Binary Search Tree Value II](901.-closest-binary-search-tree-value-ii.md)
   * [86. Binary Search Tree Iterator](86.-binary-search-tree-iterator.md)
+

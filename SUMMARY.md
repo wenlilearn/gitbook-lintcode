@@ -58,3 +58,8 @@
 * [95. Validate Binary Search Tree](depth-first-search-dfs/95.-validate-binary-search-tree.md)
 * [901. Closest Binary Search Tree Value II](depth-first-search-dfs/901.-closest-binary-search-tree-value-ii.md)
 * [86. Binary Search Tree Iterator](depth-first-search-dfs/86.-binary-search-tree-iterator.md)
+* [680. Split String](depth-first-search-dfs/680.-split-string.md)
+* [570. Find the Missing Number II](depth-first-search-dfs/570.-find-the-missing-number-ii.md)
+* [136. Palindrome Partitioning](depth-first-search-dfs/136.-palindrome-partitioning.md)
+* [152. Combinations](depth-first-search-dfs/152.-combinations.md)
+
