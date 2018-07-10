@@ -73,6 +73,7 @@
 * [107. Word Break & 582. Word Break II](depth-first-search-dfs/107.-word-break-and-582.-word-break-ii.md)
 * [862. Next Closest Time](depth-first-search-dfs/862.-next-closest-time.md)
 * [425. Letter Combinations of a Phone Number](depth-first-search-dfs/425.-letter-combinations-of-a-phone-number.md)
+* [10. String Permutation II](depth-first-search-dfs/10.-string-permutation-ii.md)
 
 ## Java语言
 
