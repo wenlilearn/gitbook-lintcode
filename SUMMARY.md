@@ -9,6 +9,7 @@
 * [DFS中的组合与排列类问题](suan-fa-gan-wu/dfs-zhong-de-zu-he-yu-pai-lie-lei-wen-ti.md)
 * [图中环问题的处理方法:](suan-fa-gan-wu/tu-zhong-huan-wen-ti-de-chu-li-fang-fa.md)
 * [1396. Set Union](suan-fa-gan-wu/1396.-set-union.md)
+* [回溯法\(Backtracking\)](suan-fa-gan-wu/hui-su-fa-backtracking.md)
 
 ## Binary Search
 
@@ -76,6 +77,7 @@
 * [10. String Permutation II](depth-first-search-dfs/10.-string-permutation-ii.md)
 * [15. Permutations](depth-first-search-dfs/15.-permutations.md)
 * [16. Permutations II](depth-first-search-dfs/16.-permutations-ii.md)
+* [829. Word Pattern II](depth-first-search-dfs/829.-word-pattern-ii.md)
 
 ## Java语言
 
