@@ -74,6 +74,8 @@
 * [862. Next Closest Time](depth-first-search-dfs/862.-next-closest-time.md)
 * [425. Letter Combinations of a Phone Number](depth-first-search-dfs/425.-letter-combinations-of-a-phone-number.md)
 * [10. String Permutation II](depth-first-search-dfs/10.-string-permutation-ii.md)
+* [15. Permutations](depth-first-search-dfs/15.-permutations.md)
+* [16. Permutations II](depth-first-search-dfs/16.-permutations-ii.md)
 
 ## Java语言
 
