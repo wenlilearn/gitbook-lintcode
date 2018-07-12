@@ -10,6 +10,7 @@
 * [图中环问题的处理方法:](suan-fa-gan-wu/tu-zhong-huan-wen-ti-de-chu-li-fang-fa.md)
 * [1396. Set Union](suan-fa-gan-wu/1396.-set-union.md)
 * [回溯法\(Backtracking\)](suan-fa-gan-wu/hui-su-fa-backtracking.md)
+* [Rabin-Karp](suan-fa-gan-wu/rabin-karp.md)
 
 ## Binary Search
 
