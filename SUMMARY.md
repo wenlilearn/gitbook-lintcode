@@ -79,6 +79,7 @@
 * [15. Permutations](depth-first-search-dfs/15.-permutations.md)
 * [16. Permutations II](depth-first-search-dfs/16.-permutations-ii.md)
 * [829. Word Pattern II](depth-first-search-dfs/829.-word-pattern-ii.md)
+* [132. Word Search II](depth-first-search-dfs/132.-word-search-ii.md)
 
 ## Java语言
 
