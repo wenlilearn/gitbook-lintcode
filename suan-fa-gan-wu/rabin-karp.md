@@ -36,6 +36,7 @@ public class Solution {
         
         int m = target.length();
         // power stores 31^m, used to substract out of hash
+        // 这里计算最高的power也是用target的长度
         int power = 1;
         for(int i = 0; i < m; i++){
           power = (power * 31) % BASE;
@@ -50,10 +51,12 @@ public class Solution {
         
         // start calculating source_hash
         int source_hash = 0;
+        // 就这里我们遍历source, 所以用source的长度进行遍历
         for(int i = 0; i < source.length(); i++){
           source_hash = (source_hash * 31 + (int)source.charAt(i)) % BASE;
           // If we haven't seen enough characters, we don't need to compare
           // hash. Just pass through
+          // 这之后都应该是用target
           if(i < m - 1){
             continue;
           }
