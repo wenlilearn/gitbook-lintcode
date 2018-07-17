@@ -93,4 +93,5 @@
 * [544. Top k Largest Numbers](data-structures-stack-queue-hash-heap/544.-top-k-largest-numbers.md)
 * [104. Merge K Sorted Lists](data-structures-stack-queue-hash-heap/104.-merge-k-sorted-lists.md)
 * [40. Implement Queue by Two Stacks](data-structures-stack-queue-hash-heap/40.-implement-queue-by-two-stacks.md)
+* [4. Ugly Number II](data-structures-stack-queue-hash-heap/4.-ugly-number-ii.md)
 
