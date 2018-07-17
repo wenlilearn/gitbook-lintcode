@@ -2,6 +2,10 @@
 
 * [Lintcode Solution](README.md)
 
+## Java语言
+
+* [Map的应用](java-yu-yan/map-de-ying-yong.md)
+
 ## 算法感悟
 
 * [Partition vs Quick Sort\(Select\)](suan-fa-gan-wu/partition-vs-quick-sort-select.md)
@@ -82,10 +86,6 @@
 * [132. Word Search II](depth-first-search-dfs/132.-word-search-ii.md)
 * [121. Word Ladder II](depth-first-search-dfs/121.-word-ladder-ii.md)
 
-## Java语言
-
-* [Map的应用](java-yu-yan/map-de-ying-yong.md)
-
 ## Data Structures\(Stack, Queue, Hash, Heap\)
 
 * [657. Insert Delete GetRandom O\(1\)](data-structures-stack-queue-hash-heap/657.-insert-delete-getrandom-o-1.md)
@@ -99,4 +99,3 @@
 ## Data Strutures - Interval, Array, Matrix & BIT
 
 * [839. Merge Two Sorted Interval Lists](data-strutures-interval-array-matrix-and-bit/839.-merge-two-sorted-interval-lists.md)
-
