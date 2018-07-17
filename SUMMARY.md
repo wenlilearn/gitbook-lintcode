@@ -96,3 +96,7 @@
 * [4. Ugly Number II](data-structures-stack-queue-hash-heap/4.-ugly-number-ii.md)
 * [134. LRU Cache](data-structures-stack-queue-hash-heap/134.-lru-cache.md)
 
+## Data Strutures - Interval, Array, Matrix & BIT
+
+* [839. Merge Two Sorted Interval Lists](data-strutures-interval-array-matrix-and-bit/839.-merge-two-sorted-interval-lists.md)
+
