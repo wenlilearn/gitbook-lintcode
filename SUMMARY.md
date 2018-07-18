@@ -74,7 +74,7 @@
 * [135. Combination Sum](depth-first-search-dfs/135.-combination-sum.md)
 * [153. Combination Sum II](depth-first-search-dfs/153.-combination-sum-ii.md)
 * [17. Subsets](depth-first-search-dfs/17.-subsets.md)
-* [18. Subsets II](depth-first-search-dfs/untitled.md)
+* [18. Subsets II](depth-first-search-dfs/18.-subsets-ii.md)
 * [780. Remove Invalid Parentheses](depth-first-search-dfs/780.-remove-invalid-parentheses.md)
 * [107. Word Break & 582. Word Break II](depth-first-search-dfs/107.-word-break-and-582.-word-break-ii.md)
 * [862. Next Closest Time](depth-first-search-dfs/862.-next-closest-time.md)
@@ -99,3 +99,5 @@
 ## Data Strutures - Interval, Array, Matrix & BIT
 
 * [839. Merge Two Sorted Interval Lists](data-strutures-interval-array-matrix-and-bit/839.-merge-two-sorted-interval-lists.md)
+* [547. Intersection of Two Arrays](data-strutures-interval-array-matrix-and-bit/547.-intersection-of-two-arrays.md)
+
