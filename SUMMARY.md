@@ -108,6 +108,7 @@
 * [577. Merge K Sorted Interval Lists](data-strutures-interval-array-matrix-and-bit/577.-merge-k-sorted-interval-lists.md)
 * [401. Kth Smallest Number in Sorted Matrix](data-strutures-interval-array-matrix-and-bit/401.-kth-smallest-number-in-sorted-matrix.md)
 * [406. Minimum Size Subarray Sum](data-strutures-interval-array-matrix-and-bit/406.-minimum-size-subarray-sum.md)
+* [465. Kth Smallest Sum In Two Sorted Arrays](data-strutures-interval-array-matrix-and-bit/465.-kth-smallest-sum-in-two-sorted-arrays.md)
 
 ## Sliding Window
 
