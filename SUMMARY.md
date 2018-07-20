@@ -106,4 +106,8 @@
 * [944. Maximum Submatrix](data-strutures-interval-array-matrix-and-bit/944.-maximum-submatrix.md)
 * [486. Merge K Sorted Arrays](data-strutures-interval-array-matrix-and-bit/486.-merge-k-sorted-arrays.md)
 * [577. Merge K Sorted Interval Lists](data-strutures-interval-array-matrix-and-bit/577.-merge-k-sorted-interval-lists.md)
+* [401. Kth Smallest Number in Sorted Matrix](data-strutures-interval-array-matrix-and-bit/401.-kth-smallest-number-in-sorted-matrix.md)
+* [406. Minimum Size Subarray Sum](data-strutures-interval-array-matrix-and-bit/406.-minimum-size-subarray-sum.md)
+
+## Sliding Window
 
