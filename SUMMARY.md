@@ -100,4 +100,10 @@
 
 * [839. Merge Two Sorted Interval Lists](data-strutures-interval-array-matrix-and-bit/839.-merge-two-sorted-interval-lists.md)
 * [547. Intersection of Two Arrays](data-strutures-interval-array-matrix-and-bit/547.-intersection-of-two-arrays.md)
+* [138. Subarray Sum](data-strutures-interval-array-matrix-and-bit/138.-subarray-sum.md)
+* [64. Merge Sorted Array](data-strutures-interval-array-matrix-and-bit/64.-merge-sorted-array.md)
+* [41. Maximum Subarray](data-strutures-interval-array-matrix-and-bit/41.-maximum-subarray.md)
+* [944. Maximum Submatrix](data-strutures-interval-array-matrix-and-bit/944.-maximum-submatrix.md)
+* [486. Merge K Sorted Arrays](data-strutures-interval-array-matrix-and-bit/486.-merge-k-sorted-arrays.md)
+* [577. Merge K Sorted Interval Lists](data-strutures-interval-array-matrix-and-bit/577.-merge-k-sorted-interval-lists.md)
 
