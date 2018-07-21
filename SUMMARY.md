@@ -15,6 +15,7 @@
 * [1396. Set Union](suan-fa-gan-wu/1396.-set-union.md)
 * [回溯法\(Backtracking\)](suan-fa-gan-wu/hui-su-fa-backtracking.md)
 * [Rabin-Karp](suan-fa-gan-wu/rabin-karp.md)
+* [Union Find\(并查集\)](suan-fa-gan-wu/union-find-bing-cha-ji.md)
 
 ## Binary Search
 
@@ -114,4 +115,6 @@
 
 * [384. Longest Substring Without Repeating Characters](sliding-window/384.-longest-substring-without-repeating-characters.md)
 * [386. Longest Substring with At Most K Distinct Characters](sliding-window/386.-longest-substring-with-at-most-k-distinct-characters.md)
+
+## Union Find
 
