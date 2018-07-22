@@ -118,3 +118,8 @@
 
 ## Union Find
 
+* [589. Connecting Graph](union-find/589.-connecting-graph.md)
+* [590. Connecting Graph II](union-find/590.-connecting-graph-ii.md)
+* [591. Connecting Graph III](union-find/591.-connecting-graph-iii.md)
+* [178. Graph Valid Tree](union-find/178.-graph-valid-tree.md)
+
