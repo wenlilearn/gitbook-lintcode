@@ -127,4 +127,6 @@
 ## Trie
 
 * [473. Add and Search Word - Data structure design](trie/473.-add-and-search-word-data-structure-design.md)
+* [442. Implement Trie \(Prefix Tree\)](trie/442.-implement-trie-prefix-tree.md)
+* [123. Word Search && 132. Word Search II](trie/123.-word-search-and-and-132.-word-search-ii.md)
 
