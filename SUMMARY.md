@@ -123,6 +123,7 @@
 * [590. Connecting Graph II](union-find/590.-connecting-graph-ii.md)
 * [591. Connecting Graph III](union-find/591.-connecting-graph-iii.md)
 * [178. Graph Valid Tree](union-find/178.-graph-valid-tree.md)
+* [434. Number of Islands II](union-find/434.-number-of-islands-ii.md)
 
 ## Trie
 
