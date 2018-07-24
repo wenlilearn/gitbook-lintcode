@@ -16,6 +16,7 @@
 * [回溯法\(Backtracking\)](suan-fa-gan-wu/hui-su-fa-backtracking.md)
 * [Rabin-Karp](suan-fa-gan-wu/rabin-karp.md)
 * [Union Find\(并查集\)](suan-fa-gan-wu/union-find-bing-cha-ji.md)
+* [Trie\(字典树\)](suan-fa-gan-wu/trie-zi-dian-shu.md)
 
 ## Binary Search
 
@@ -122,4 +123,8 @@
 * [590. Connecting Graph II](union-find/590.-connecting-graph-ii.md)
 * [591. Connecting Graph III](union-find/591.-connecting-graph-iii.md)
 * [178. Graph Valid Tree](union-find/178.-graph-valid-tree.md)
+
+## Trie
+
+* [473. Add and Search Word - Data structure design](trie/473.-add-and-search-word-data-structure-design.md)
 
