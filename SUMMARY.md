@@ -16,7 +16,8 @@
 * [回溯法\(Backtracking\)](suan-fa-gan-wu/hui-su-fa-backtracking.md)
 * [Rabin-Karp](suan-fa-gan-wu/rabin-karp.md)
 * [Union Find\(并查集\)](suan-fa-gan-wu/union-find-bing-cha-ji.md)
-* [Trie\(字典树\)](suan-fa-gan-wu/trie-zi-dian-shu.md)
+* [Trie\(字典树\)](suan-fa-gan-wu/trie-zi-dian-shu/README.md)
+  * [Sweep Line\(扫描线\)](suan-fa-gan-wu/trie-zi-dian-shu/sweep-line-sao-miao-xian.md)
 
 ## Binary Search
 
@@ -130,4 +131,6 @@
 * [473. Add and Search Word - Data structure design](trie/473.-add-and-search-word-data-structure-design.md)
 * [442. Implement Trie \(Prefix Tree\)](trie/442.-implement-trie-prefix-tree.md)
 * [123. Word Search && 132. Word Search II](trie/123.-word-search-and-and-132.-word-search-ii.md)
+
+## 扫描线
 
