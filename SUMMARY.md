@@ -16,8 +16,9 @@
 * [回溯法\(Backtracking\)](suan-fa-gan-wu/hui-su-fa-backtracking.md)
 * [Rabin-Karp](suan-fa-gan-wu/rabin-karp.md)
 * [Union Find\(并查集\)](suan-fa-gan-wu/union-find-bing-cha-ji.md)
-* [Trie\(字典树\)](suan-fa-gan-wu/trie-zi-dian-shu/README.md)
-  * [Sweep Line\(扫描线\)](suan-fa-gan-wu/trie-zi-dian-shu/sweep-line-sao-miao-xian.md)
+* [Trie\(字典树\)](suan-fa-gan-wu/trie-zi-dian-shu.md)
+* [Sweep Line\(扫描线\)](suan-fa-gan-wu/sweep-line-sao-miao-xian.md)
+* [Heap\(堆\)](suan-fa-gan-wu/heap-dui.md)
 
 ## Binary Search
 
@@ -98,6 +99,8 @@
 * [40. Implement Queue by Two Stacks](data-structures-stack-queue-hash-heap/40.-implement-queue-by-two-stacks.md)
 * [4. Ugly Number II](data-structures-stack-queue-hash-heap/4.-ugly-number-ii.md)
 * [134. LRU Cache](data-structures-stack-queue-hash-heap/134.-lru-cache.md)
+* [Untitled](data-structures-stack-queue-hash-heap/untitled.md)
+* [130. Heapify](data-structures-stack-queue-hash-heap/130.-heapify.md)
 
 ## Data Strutures - Interval, Array, Matrix & BIT
 
