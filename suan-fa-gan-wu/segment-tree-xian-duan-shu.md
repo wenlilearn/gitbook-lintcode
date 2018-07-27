@@ -9,6 +9,9 @@
 ### 性质
 
 * 树的高度为O\(log\(n\)\)
+* 一个节点:
+  * 要么是叶子节点, 就是一个儿子也没有
+  * 要么就既有左儿子也有右儿子
 
 ### 节点定义
 
@@ -142,6 +145,9 @@ modify(root, index, value):
     if(index <= root_mid):
         modify(root.left, index, value)
         //注意这里是为了防止不存在区间的异常
+        //还有一点要注意, segment tree有左儿子就一定有右儿子
+        //所以对于求最大之类的操作来说可以直接调用左右两个儿子
+        //的值, 但是检查只用检查一遍就好了
         if(root.left):
             root.value = root.left.value
     
