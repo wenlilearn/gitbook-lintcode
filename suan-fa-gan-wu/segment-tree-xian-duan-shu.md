@@ -110,5 +110,50 @@ query(start, end, root):
     return val
 ```
 {% endtab %}
+
+{% tab title="线段树的更新" %}
+### 更新操作:
+
+* 这里的更新操作指的是一个点的更新
+* 给定一个线段树和一个点去更新:
+  * 计算这个线段树当前节点代表的区间的中点
+  * 然后看给定的点在的位置
+    * 如果在左边, 那么我们就更新左树
+    * 如果在右边, 我们就更新右树
+  * 然后更新当前点
+  * 然后回到递归上一层更新父节点
+* 时间复杂度是O\(log\(n\)\)
+* 伪代码如下:
+
+```java
+modify(root, index, value):
+    //异常情况: 给定的index越界, 不更新直接返回
+    if root == null:
+        return
+        
+    //找到了要更新的点, 更新其中存的值
+    if root.start == index && root.right == index:
+        root.value = value
+    
+    //找到当前线段树节点的中点
+    root_mid = (root.start + root.end) / 2
+    
+    //如果index在左边就去左边更新
+    if(index <= root_mid):
+        modify(root.left, index, value)
+        //注意这里是为了防止不存在区间的异常
+        if(root.left):
+            root.value = root.left.value
+    
+    //如果index在右边就去右边更新
+    if(index > root_mid):
+        modify(root.right, index, value)
+        if(root.right):
+            root.value = root.right.value
+    
+    //没有返回值
+    return
+```
+{% endtab %}
 {% endtabs %}
 
