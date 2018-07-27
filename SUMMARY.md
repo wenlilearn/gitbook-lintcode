@@ -19,6 +19,7 @@
 * [Trie\(字典树\)](suan-fa-gan-wu/trie-zi-dian-shu.md)
 * [Sweep Line\(扫描线\)](suan-fa-gan-wu/sweep-line-sao-miao-xian.md)
 * [Heap\(堆\)](suan-fa-gan-wu/heap-dui.md)
+* [Segment Tree\(线段树\)](suan-fa-gan-wu/segment-tree-xian-duan-shu.md)
 
 ## Binary Search
 
@@ -141,4 +142,11 @@
 * [920. Meeting Rooms](sao-miao-xian/920.-meeting-rooms.md)
 * [919. Meeting Rooms II](sao-miao-xian/919.-meeting-rooms-ii.md)
 * [821. Time Intersection](sao-miao-xian/821.-time-intersection.md)
+
+## 线段树\(Segment Tree\)
+
+* [201. Segment Tree Build](xian-duan-shu-segment-tree/xian-duan-shu-segment-tree.md)
+* [439. Segment Tree Build II](xian-duan-shu-segment-tree/439.-segment-tree-build-ii.md)
+* [202. Segment Tree Query](xian-duan-shu-segment-tree/202.-segment-tree-query.md)
+* [247. Segment Tree Query II](xian-duan-shu-segment-tree/247.-segment-tree-query-ii.md)
 
