@@ -150,4 +150,6 @@
 * [202. Segment Tree Query](xian-duan-shu-segment-tree/202.-segment-tree-query.md)
 * [247. Segment Tree Query II](xian-duan-shu-segment-tree/247.-segment-tree-query-ii.md)
 * [203. Segment Tree Modify](xian-duan-shu-segment-tree/203.-segment-tree-modify.md)
+* [206. Interval Sum](xian-duan-shu-segment-tree/206.-interval-sum.md)
+* [207. Interval Sum II](xian-duan-shu-segment-tree/207.-interval-sum-ii.md)
 
