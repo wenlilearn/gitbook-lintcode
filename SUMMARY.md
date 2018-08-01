@@ -152,4 +152,5 @@
 * [203. Segment Tree Modify](xian-duan-shu-segment-tree/203.-segment-tree-modify.md)
 * [206. Interval Sum](xian-duan-shu-segment-tree/206.-interval-sum.md)
 * [207. Interval Sum II](xian-duan-shu-segment-tree/207.-interval-sum-ii.md)
+* [249. Count of Smaller Number before itself](xian-duan-shu-segment-tree/249.-count-of-smaller-number-before-itself.md)
 
