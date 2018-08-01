@@ -154,3 +154,8 @@
 * [207. Interval Sum II](xian-duan-shu-segment-tree/207.-interval-sum-ii.md)
 * [249. Count of Smaller Number before itself](xian-duan-shu-segment-tree/249.-count-of-smaller-number-before-itself.md)
 
+## 海量数据处理
+
+* [Intro](hai-liang-shu-ju-chu-li/intro.md)
+* [找前k个大的数](hai-liang-shu-ju-chu-li/zhao-qiankge-da-de-shu.md)
+
