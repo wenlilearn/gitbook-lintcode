@@ -157,5 +157,7 @@
 ## 海量数据处理
 
 * [Intro](hai-liang-shu-ju-chu-li/intro.md)
-* [找前k个大的数](hai-liang-shu-ju-chu-li/zhao-qiankge-da-de-shu.md)
+* [找前k个大的数](hai-liang-shu-ju-chu-li/zhao-qiankge-da-de-shu/README.md)
+  * [544. Top k Largest Numbers](hai-liang-shu-ju-chu-li/zhao-qiankge-da-de-shu/544.-top-k-largest-numbers.md)
+  * [545. Top k Largest Numbers II](hai-liang-shu-ju-chu-li/zhao-qiankge-da-de-shu/545.-top-k-largest-numbers-ii.md)
 
