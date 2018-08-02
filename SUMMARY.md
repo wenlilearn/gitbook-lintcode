@@ -167,4 +167,7 @@
 * [最高频的k项\(单词\)](hai-liang-shu-ju-chu-li/zui-gao-pin-dekxiang-dan-ci/README.md)
   * [离线算法](hai-liang-shu-ju-chu-li/zui-gao-pin-dekxiang-dan-ci/li-xian-suan-fa.md)
   * [在线算法](hai-liang-shu-ju-chu-li/zui-gao-pin-dekxiang-dan-ci/untitled.md)
+* [Bloom Filter\(布隆过滤器\)](hai-liang-shu-ju-chu-li/bloom-filter-bu-long-guo-lv-qi/README.md)
+  * [Standard bloom filter\(标准布隆过滤器\)](hai-liang-shu-ju-chu-li/bloom-filter-bu-long-guo-lv-qi/standard-bloom-filter-biao-zhun-bu-long-guo-lv-qi.md)
+  * [Counting bloom filter\(计数型布隆过滤器\)](hai-liang-shu-ju-chu-li/bloom-filter-bu-long-guo-lv-qi/counting-bloom-filter-ji-shu-xing-bu-long-guo-lv-qi.md)
 
