@@ -17,6 +17,8 @@
 * 两种bloom filter:
   * standard bloom filter: 用来处理元素在不在集合中这个问题, 对应hashset
   * counting bloom filter: 用来处理元素在集合中的出现次数, 对应hashmap
+* 一般这个较大的数组开多大?
+  * 一般为哈希函数个数 \* 10 \* 元素个数比较合适
 
 
 
