@@ -4,7 +4,26 @@
 
 {% tabs %}
 {% tab title="Problem" %}
+#### 550. Top K Frequent Words II
 
+Find top _k_ frequent words in realtime data stream.
+
+Implement three methods for _Topk_ Class:
+
+1. `TopK(k)`. The constructor.
+2. `add(word)`. Add a new word.
+3. `topk()`. Get the current top _k_ frequent words.
+
+#### Example
+
+```text
+TopK(2)
+add("lint")
+add("code")
+add("code")
+topk()
+>> ["code", "lint"]
+```
 {% endtab %}
 
 {% tab title="Java" %}
@@ -75,4 +94,18 @@ public class TopK {
 ```
 {% endtab %}
 {% endtabs %}
+
+### Followup: 内存不足怎么办?
+
+* 首先来说, 一个精确的, 在线的, 省空间的算法在内存不足的情况下是不存在的
+* 但是我们可以通过某些estimate的算法, 在这里我们选择hashcount
+* hashcount的原理就是把word用hash function进行hash, 然后用这个hash来代替word
+* hash function虽然会有collision, 不过这样正好使得我们减小了空间的占用
+* 伪代码如下:
+
+```java
+hash_map = new int[hash_size];
+hash_code = hash_function(word) % hash_size
+hash_map[hash_code] += 1
+```
 

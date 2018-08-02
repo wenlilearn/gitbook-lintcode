@@ -5,6 +5,10 @@
 ## Java语言
 
 * [Map的应用](java-yu-yan/map-de-ying-yong.md)
+* [Iterator](java-yu-yan/iterator.md)
+* [TreeSet](java-yu-yan/treeset.md)
+* [String](java-yu-yan/string.md)
+* [Heap](java-yu-yan/heap.md)
 
 ## 算法感悟
 
