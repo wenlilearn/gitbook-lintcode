@@ -172,4 +172,5 @@
   * [Counting bloom filter\(计数型布隆过滤器\)](hai-liang-shu-ju-chu-li/bloom-filter-bu-long-guo-lv-qi/counting-bloom-filter-ji-shu-xing-bu-long-guo-lv-qi.md)
 * [外排序算法](hai-liang-shu-ju-chu-li/wai-pai-xu-suan-fa/README.md)
   * [常见面试问题](hai-liang-shu-ju-chu-li/wai-pai-xu-suan-fa/chang-jian-mian-shi-wen-ti.md)
+* [概率类问题](hai-liang-shu-ju-chu-li/gai-lv-lei-wen-ti.md)
 
