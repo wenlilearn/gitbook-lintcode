@@ -94,6 +94,7 @@
 * [829. Word Pattern II](depth-first-search-dfs/829.-word-pattern-ii.md)
 * [132. Word Search II](depth-first-search-dfs/132.-word-search-ii.md)
 * [121. Word Ladder II](depth-first-search-dfs/121.-word-ladder-ii.md)
+* [1279. Count Numbers with Unique Digits](depth-first-search-dfs/1279.-count-numbers-with-unique-digits.md)
 
 ## Data Structures\(Stack, Queue, Hash, Heap\)
 
