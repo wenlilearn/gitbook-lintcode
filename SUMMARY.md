@@ -99,6 +99,7 @@
 * [915. Inorder Predecessor in BST](depth-first-search-dfs/915.-inorder-predecessor-in-bst.md)
 * [652. Factorization](depth-first-search-dfs/652.-factorization.md)
 * [192. Wildcard Matching](depth-first-search-dfs/192.-wildcard-matching.md)
+* [154. Regular Expression Matching](depth-first-search-dfs/154.-regular-expression-matching.md)
 
 ## Data Structures\(Stack, Queue, Hash, Heap\)
 
