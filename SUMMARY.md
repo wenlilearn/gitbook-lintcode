@@ -100,6 +100,7 @@
 * [652. Factorization](depth-first-search-dfs/652.-factorization.md)
 * [192. Wildcard Matching](depth-first-search-dfs/192.-wildcard-matching.md)
 * [154. Regular Expression Matching](depth-first-search-dfs/154.-regular-expression-matching.md)
+* [427. Generate Parentheses](depth-first-search-dfs/427.-generate-parentheses.md)
 
 ## Data Structures\(Stack, Queue, Hash, Heap\)
 
