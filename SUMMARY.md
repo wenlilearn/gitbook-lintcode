@@ -185,4 +185,5 @@
 ## 九章算法随课教程
 
 * [时间复杂度](jiu-zhang-suan-fa-sui-ke-jiao-cheng/shi-jian-fu-za-du.md)
+* [空间复杂度](jiu-zhang-suan-fa-sui-ke-jiao-cheng/kong-jian-fu-za-du.md)
 
