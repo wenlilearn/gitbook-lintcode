@@ -182,3 +182,7 @@
   * [常见面试问题](hai-liang-shu-ju-chu-li/wai-pai-xu-suan-fa/chang-jian-mian-shi-wen-ti.md)
 * [概率类问题](hai-liang-shu-ju-chu-li/gai-lv-lei-wen-ti.md)
 
+## 九章算法随课教程
+
+* [时间复杂度](jiu-zhang-suan-fa-sui-ke-jiao-cheng/shi-jian-fu-za-du.md)
+
