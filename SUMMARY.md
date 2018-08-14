@@ -101,6 +101,7 @@
 * [192. Wildcard Matching](depth-first-search-dfs/192.-wildcard-matching.md)
 * [154. Regular Expression Matching](depth-first-search-dfs/154.-regular-expression-matching.md)
 * [427. Generate Parentheses](depth-first-search-dfs/427.-generate-parentheses.md)
+* [780. Remove Invalid Parentheses](depth-first-search-dfs/780.-remove-invalid-parentheses-1.md)
 
 ## Data Structures\(Stack, Queue, Hash, Heap\)
 
