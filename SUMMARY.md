@@ -24,6 +24,7 @@
 * [Sweep Line\(扫描线\)](suan-fa-gan-wu/sweep-line-sao-miao-xian.md)
 * [Heap\(堆\)](suan-fa-gan-wu/heap-dui.md)
 * [Segment Tree\(线段树\)](suan-fa-gan-wu/segment-tree-xian-duan-shu.md)
+* [快速幂](suan-fa-gan-wu/kuai-su.md)
 
 ## Binary Search
 
