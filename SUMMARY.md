@@ -25,7 +25,7 @@
 * [Heap\(堆\)](suan-fa-gan-wu/heap-dui.md)
 * [Segment Tree\(线段树\)](suan-fa-gan-wu/segment-tree-xian-duan-shu.md)
 * [快速幂](suan-fa-gan-wu/kuai-su.md)
-* [双指针](suan-fa-gan-wu/shuang-zhi-zhen.md)
+* [多指针](suan-fa-gan-wu/shuang-zhi-zhen.md)
 * [排序算法](suan-fa-gan-wu/pai-xu-suan-fa.md)
 
 ## Binary Search
