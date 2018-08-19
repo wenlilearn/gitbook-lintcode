@@ -27,6 +27,9 @@
 * [快速幂](suan-fa-gan-wu/kuai-su.md)
 * [多指针](suan-fa-gan-wu/shuang-zhi-zhen.md)
 * [排序算法](suan-fa-gan-wu/pai-xu-suan-fa.md)
+* [平衡二叉树\(Balanced BST\)](suan-fa-gan-wu/ping-heng-er-cha-shu-balanced-bst.md)
+* [二叉搜索树\(BST\)](suan-fa-gan-wu/er-cha-sou-suo-shu-bst.md)
+* [平衡二叉搜索树\(Self-balancing BST\)](suan-fa-gan-wu/ping-heng-er-cha-sou-suo-shu-selfbalancing-bst.md)
 
 ## Binary Search
 
