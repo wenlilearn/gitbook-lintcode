@@ -10,7 +10,7 @@
 * [String](java-yu-yan/string.md)
 * [Heap](java-yu-yan/heap.md)
 
-## 算法感悟
+## 数据结构与算法理论
 
 * [Partition vs Quick Sort\(Select\)](suan-fa-gan-wu/partition-vs-quick-sort-select.md)
 * [拓扑排序中的visited](suan-fa-gan-wu/tuo-pu-pai-xu-zhong-de-visited.md)
@@ -30,6 +30,7 @@
 * [平衡二叉树\(Balanced BST\)](suan-fa-gan-wu/ping-heng-er-cha-shu-balanced-bst.md)
 * [二叉搜索树\(BST\)](suan-fa-gan-wu/er-cha-sou-suo-shu-bst.md)
 * [平衡二叉搜索树\(Self-balancing BST\)](suan-fa-gan-wu/ping-heng-er-cha-sou-suo-shu-selfbalancing-bst.md)
+* [哈希表\(HashMap\)](suan-fa-gan-wu/ha-xi-biao-hashmap.md)
 
 ## Binary Search
 
