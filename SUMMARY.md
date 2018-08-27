@@ -153,6 +153,7 @@
 * [591. Connecting Graph III](union-find/591.-connecting-graph-iii.md)
 * [178. Graph Valid Tree](union-find/178.-graph-valid-tree.md)
 * [434. Number of Islands II](union-find/434.-number-of-islands-ii.md)
+* [1088. Redundant Connection](union-find/1088.-redundant-connection.md)
 
 ## Trie
 
