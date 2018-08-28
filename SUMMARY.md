@@ -146,6 +146,7 @@
 
 * [384. Longest Substring Without Repeating Characters](sliding-window/384.-longest-substring-without-repeating-characters.md)
 * [386. Longest Substring with At Most K Distinct Characters](sliding-window/386.-longest-substring-with-at-most-k-distinct-characters.md)
+* [1040. Max Chunks To Make Sorted II](sliding-window/1040.-max-chunks-to-make-sorted-ii.md)
 
 ## Union Find
 
