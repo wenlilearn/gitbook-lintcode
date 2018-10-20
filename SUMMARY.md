@@ -127,6 +127,7 @@
 * [364. Trapping Rain Water II](data-structures-stack-queue-hash-heap/untitled.md)
 * [130. Heapify](data-structures-stack-queue-hash-heap/130.-heapify.md)
 * [955. Implement Queue by Circular Array](data-structures-stack-queue-hash-heap/955.-implement-queue-by-circular-array.md)
+* [954. Insert Delete GetRandom O\(1\) - Duplicates allowed](data-structures-stack-queue-hash-heap/954.-insert-delete-getrandom-o-1-duplicates-allowed.md)
 
 ## Data Strutures - Interval, Array, Matrix & BIT
 
