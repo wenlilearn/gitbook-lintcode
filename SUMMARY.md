@@ -145,6 +145,7 @@
 * [65. Median of two Sorted Arrays](data-strutures-interval-array-matrix-and-bit/65.-median-of-two-sorted-arrays.md)
 * [1039. Max Chunks To Make Sorted](data-strutures-interval-array-matrix-and-bit/1039.-max-chunks-to-make-sorted.md)
 * [845. Longest Mountain in Array\(Leetcode\)](data-strutures-interval-array-matrix-and-bit/845.-longest-mountain-in-array-leetcode.md)
+* [46. Majority Element](data-strutures-interval-array-matrix-and-bit/46.-majority-element.md)
 
 ## Sliding Window
 
