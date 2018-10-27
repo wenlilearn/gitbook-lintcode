@@ -148,6 +148,7 @@
 * [845. Longest Mountain in Array\(Leetcode\)](data-strutures-interval-array-matrix-and-bit/845.-longest-mountain-in-array-leetcode.md)
 * [46. Majority Element](data-strutures-interval-array-matrix-and-bit/46.-majority-element.md)
 * [47. Majority Element II & 48. Majority Number III](data-strutures-interval-array-matrix-and-bit/47.-majority-element-ii-and-48.-majority-number-iii.md)
+* [994. Contiguous Array](data-strutures-interval-array-matrix-and-bit/994.-contiguous-array.md)
 
 ## Sliding Window
 
