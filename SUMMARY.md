@@ -47,6 +47,7 @@
 * [404. Subarray Sum II](binary-search/404.-subarray-sum-ii.md)
 * [Find K-th Smallest Pair Distance](binary-search/find-k-th-smallest-pair-distance.md)
 * [1251. Split Array Largest Sum](binary-search/1251.-split-array-largest-sum.md)
+* [Guaranteed Binary Search](binary-search/guaranteed-binary-search.md)
 
 ## Two Pointers
 
