@@ -216,6 +216,7 @@
 ## Iterator
 
 * [601. Flatten 2D Vector](iterator/601.-flatten-2d-vector.md)
+* [284. Peeking Iterator\(Leetcoe\)](iterator/284.-peeking-iterator-leetcoe.md)
 
 ## QuickSelect/QuickSort/Partition
 
