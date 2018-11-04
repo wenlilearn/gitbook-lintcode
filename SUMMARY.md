@@ -115,6 +115,7 @@
 * [427. Generate Parentheses](depth-first-search-dfs/427.-generate-parentheses.md)
 * [780. Remove Invalid Parentheses](depth-first-search-dfs/780.-remove-invalid-parentheses-1.md)
 * [399. Evaluate Division\(Leetcode\)](depth-first-search-dfs/399.-evaluate-division-leetcode.md)
+* [1031. Is Graph Bipartite?](depth-first-search-dfs/1031.-is-graph-bipartite.md)
 
 ## Data Structures\(Stack, Queue, Hash, Heap\)
 
