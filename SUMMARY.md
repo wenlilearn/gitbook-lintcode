@@ -74,6 +74,7 @@
 * [127. Topological Sorting](breadth-first-search-bfs/127.-topological-sorting.md)
 * [120. Word Ladder](breadth-first-search-bfs/120.-word-ladder.md)
 * [892. Alien Dictionary](breadth-first-search-bfs/892.-alien-dictionary.md)
+* [1015. Find Eventual Safe States](breadth-first-search-bfs/1015.-find-eventual-safe-states.md)
 
 ## Depth First Search\(DFS\)
 
