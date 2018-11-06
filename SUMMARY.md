@@ -155,6 +155,7 @@
 * [1065. My Calendar I](data-strutures-interval-array-matrix-and-bit/1065.-my-calendar-i.md)
 * [1064. My Calendar II](data-strutures-interval-array-matrix-and-bit/1064.-my-calendar-ii.md)
 * [1063. My Calendar III](data-strutures-interval-array-matrix-and-bit/1063.-my-calendar-iii.md)
+* [945. Task Scheduler](data-strutures-interval-array-matrix-and-bit/945.-task-scheduler.md)
 
 ## Sliding Window
 
