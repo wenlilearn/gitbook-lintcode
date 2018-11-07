@@ -242,3 +242,7 @@
 
 * [1008. Expressive Words](string/1008.-expressive-words.md)
 
+## Bucket
+
+* [400. Maximum Gap](bucket/400.-maximum-gap.md)
+
