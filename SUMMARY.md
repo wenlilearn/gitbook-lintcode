@@ -241,6 +241,7 @@
 ## String
 
 * [1008. Expressive Words](string/1008.-expressive-words.md)
+* [1318. Contains Duplicate III](string/1318.-contains-duplicate-iii.md)
 
 ## Bucket
 
