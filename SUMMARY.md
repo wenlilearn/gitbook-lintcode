@@ -247,7 +247,8 @@
 
 * [400. Maximum Gap](bucket/400.-maximum-gap.md)
 
-## Permutation
+## Permutation&Combination
 
 * [52. Next Permutation & 51. Previous Permutation](permutation/52.-next-permutation-and-51.-previous-permutation.md)
+* [388. Permutation Sequence](permutation/388.-permutation-sequence.md)
 
