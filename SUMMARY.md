@@ -118,6 +118,7 @@
 * [399. Evaluate Division\(Leetcode\)](depth-first-search-dfs/399.-evaluate-division-leetcode.md)
 * [1031. Is Graph Bipartite?](depth-first-search-dfs/1031.-is-graph-bipartite.md)
 * [841. keys and rooms\(Leetcode\)](depth-first-search-dfs/841.-keys-and-rooms-leetcode.md)
+* [1015. Find Eventual Safe States](depth-first-search-dfs/1015.-find-eventual-safe-states.md)
 
 ## Data Structures\(Stack, Queue, Hash, Heap\)
 
